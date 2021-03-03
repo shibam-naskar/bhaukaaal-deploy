@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/bhaukaaal-deploy/static/css/main.667ee711.chunk.css",
-    "main.js": "/bhaukaaal-deploy/static/js/main.712ae1cb.chunk.js",
-    "main.js.map": "/bhaukaaal-deploy/static/js/main.712ae1cb.chunk.js.map",
+    "main.js": "/bhaukaaal-deploy/static/js/main.b0c09a5c.chunk.js",
+    "main.js.map": "/bhaukaaal-deploy/static/js/main.b0c09a5c.chunk.js.map",
     "runtime-main.js": "/bhaukaaal-deploy/static/js/runtime-main.54c8cd17.js",
     "runtime-main.js.map": "/bhaukaaal-deploy/static/js/runtime-main.54c8cd17.js.map",
     "static/js/2.4b8d0138.chunk.js": "/bhaukaaal-deploy/static/js/2.4b8d0138.chunk.js",
@@ -10,12 +10,12 @@
     "index.html": "/bhaukaaal-deploy/index.html",
     "static/css/main.667ee711.chunk.css.map": "/bhaukaaal-deploy/static/css/main.667ee711.chunk.css.map",
     "static/js/2.4b8d0138.chunk.js.LICENSE.txt": "/bhaukaaal-deploy/static/js/2.4b8d0138.chunk.js.LICENSE.txt",
-    "static/media/god1.7b183476.mp4": "/bhaukaaal-deploy/static/media/god1.7b183476.mp4"
+    "static/media/marvel.9aca48f6.mp4": "/bhaukaaal-deploy/static/media/marvel.9aca48f6.mp4"
   },
   "entrypoints": [
     "static/js/runtime-main.54c8cd17.js",
     "static/js/2.4b8d0138.chunk.js",
     "static/css/main.667ee711.chunk.css",
-    "static/js/main.712ae1cb.chunk.js"
+    "static/js/main.b0c09a5c.chunk.js"
   ]
 }
