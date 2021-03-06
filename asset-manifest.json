@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/bhaukaaal-deploy/static/css/main.667ee711.chunk.css",
-    "main.js": "/bhaukaaal-deploy/static/js/main.09d32a43.chunk.js",
-    "main.js.map": "/bhaukaaal-deploy/static/js/main.09d32a43.chunk.js.map",
+    "main.css": "/bhaukaaal-deploy/static/css/main.579bbff6.chunk.css",
+    "main.js": "/bhaukaaal-deploy/static/js/main.ed3e31dc.chunk.js",
+    "main.js.map": "/bhaukaaal-deploy/static/js/main.ed3e31dc.chunk.js.map",
     "runtime-main.js": "/bhaukaaal-deploy/static/js/runtime-main.54c8cd17.js",
     "runtime-main.js.map": "/bhaukaaal-deploy/static/js/runtime-main.54c8cd17.js.map",
     "static/js/2.4b8d0138.chunk.js": "/bhaukaaal-deploy/static/js/2.4b8d0138.chunk.js",
     "static/js/2.4b8d0138.chunk.js.map": "/bhaukaaal-deploy/static/js/2.4b8d0138.chunk.js.map",
     "index.html": "/bhaukaaal-deploy/index.html",
-    "static/css/main.667ee711.chunk.css.map": "/bhaukaaal-deploy/static/css/main.667ee711.chunk.css.map",
+    "static/css/main.579bbff6.chunk.css.map": "/bhaukaaal-deploy/static/css/main.579bbff6.chunk.css.map",
     "static/js/2.4b8d0138.chunk.js.LICENSE.txt": "/bhaukaaal-deploy/static/js/2.4b8d0138.chunk.js.LICENSE.txt",
     "static/media/marvel.9aca48f6.mp4": "/bhaukaaal-deploy/static/media/marvel.9aca48f6.mp4"
   },
   "entrypoints": [
     "static/js/runtime-main.54c8cd17.js",
     "static/js/2.4b8d0138.chunk.js",
-    "static/css/main.667ee711.chunk.css",
-    "static/js/main.09d32a43.chunk.js"
+    "static/css/main.579bbff6.chunk.css",
+    "static/js/main.ed3e31dc.chunk.js"
   ]
 }
